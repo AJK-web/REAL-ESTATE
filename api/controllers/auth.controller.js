@@ -14,6 +14,7 @@ try{
 }
 catch(error){
 // Middle WearUse
+// The middle wear is for handling errors
   next(error);
   
 }
